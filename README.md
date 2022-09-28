@@ -2,6 +2,14 @@
 
 Convert Mattermost Notififications to Talkspirit ones in order to support more services.
 
+## Install
+
+```sh
+git clone https://github.com/besnardjb/talkspiritproxy.git
+cd talkspiritproxy
+pip install .
+```
+
 ## Config Example
 
 ```yaml
